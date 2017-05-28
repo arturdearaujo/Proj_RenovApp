@@ -1,0 +1,21 @@
+﻿0,1,Seu Insumo é essencialmente uma matéria-prima?,0
+1,2,É madeira?,1
+1,3,É eletrônico?,0
+2,4,Lista de Madeireiras,1
+2,5,É vidro?,0
+3,6,Funciona?,1
+3,7,É móvel?,0
+5,8,Lista de Vidraçarias,1
+5,9,É roupa?,0
+6,10,Lista de Eletrônicas,1
+6,11,Lista de depósitos de Sucata,0
+7,12,Lista de Madeireiras,1
+7,13,Sobre Rejeitos:,0
+9,14,Lista de Ateliês,1
+9,15,É plástico?,0
+15,16,Lista de Oficinas Plásticas,1
+15,17,É metal?,0
+17,18,Lista de Metalúrgicas,1
+17,19,É químico?,0
+19,20,Eco-Pontos Fortaleza,1
+19,21,Sobre Rejeitos:,0

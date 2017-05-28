@@ -1,0 +1,9 @@
+Lista de Madeireiras,lista_madeireiras.txt
+Lista de Vidraçarias,lista_vidro.txt
+Lista de Ateliês,lista_vidro.txt
+Lista de Oficinas Plásticas,lista_plastico.txt
+Lista de Metalúrgicas,lista_metal.txt
+Eco-Pontos Fortaleza,ecopontos-fortaleza.txt
+Lista de Eletrônicas,lista_eletronico.txt
+Lista de depósitos de Sucata,ecopontos-fortaleza.txt
+Sobre Rejeitos:,rejeitos.txt

@@ -1,0 +1,10 @@
+﻿O aplicativo promoverá uma ponte entre usuários que trabalham com reciclagem e/ou descarte de materiais (oficinas, eletrônicas, madeireiras, ateliês, postos de coletas de resíduos orgânicos, etc) e pessoas com materiais atualmente sem uso ou valor (como um guarda-roupas de madeira velho) que desejem trans formá-los em novos materiais ( por exemplo, o guarda-roupas anterior poderia se transformar em excelentes prateleiras ou em uma escrivaninha, através de um bom carpinteiro). Os insumos velhos depositados pelos usuários receberão um valor monetário, e o novo produto produzido terá seu valor em função do valor anterior e do esforço exercido pela produtora para sua confecção.
+
+Através desse aplicativo, pretende-se:
+- Coletar dados a respeito da quantidade de materiais mais e menos frequentemente reciclados;
+- Coletar taxas de produção de lixo;
+- Incentivo à reutilização e reciclagem;
+- Incentivo ao mercado de serviços;
+- Incentivo à criação de novos produtos a partir de materiais reutilizados;
+- Incentivo ao surgimento de novos artesãos e oficinas (postos de trabalho);
+- Aumentar o controle de descarte de materiais nocivos (como pilhas e baterias);

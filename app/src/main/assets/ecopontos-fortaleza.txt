@@ -1,0 +1,22 @@
+﻿Eco-Ponto,EcoPonto Barra do Ceará,Rua Graça Aranha com Rua Wilcar Bastos Cavalcante
+Eco-Ponto,EcoPonto Vila Velha,Rua Jasmim, S/N
+Eco-Ponto,EcoPonto São João do Tauape,Avenida Visconde do Rio Branco, S/N – anexo ao Parque Rio Branco
+Eco-Ponto,EcoPonto Varjota,Avenida Antônio Justa com Rua Meruoca
+Eco-Ponto,EcoPonto Cidade 2000,Rua Giselda Cysne com Rua Sólon Carvalho
+Eco-Ponto,EcoPonto Praia do Futuro,Rua José Aureliano Câmara com Avenida Dioguinho
+Eco-Ponto,EcoPonto Vicente Pinzon,Rua Veneza, esquina com Rua Josias Paula de Souza (próximo ao posto de saúde Vicente Pinzon)
+Eco-Ponto,EcoPonto Jóquei Clube,Rua Perdigão de Oliveira, esquina com Rua Silveira Filho (ao lado do posto de saúde)
+Eco-Ponto,EcoPonto PiciEcoPonto Pici,Rua Pernambuco (anexo à UFC, ao lado do número 600)
+Eco-Ponto,EcoPonto Bairro de Fátima,Avenida Luciano Carneiro com Avenida Eduardo Girão
+Eco-Ponto,EcoPonto Vila Peri,Rua Antônio Costa Mendes com Travessa Augusto Ribeiro
+Eco-Ponto,EcoPonto Serrinha,Rua Freire Alemão com Rua Inácio Parente
+Eco-Ponto,EcoPonto Conjunto Esperança,Avenida Penetração Norte-Sul com Rua do Canal
+Eco-Ponto,EcoPonto Conjunto Ceará,Avenida Ministro Albuquerque Lima com Rua 721
+Eco-Ponto,EcoPonto José Walter,Avenida B com Rua 33
+Eco-Ponto,EcoPonto Aracapé,Rua Miguel de Aragão com Rua Nossa Senhora Aparecida
+Eco-Ponto,EcoPonto Granja Portugal,Rua Duas Nações, 1029
+Eco-Ponto,EcoPonto Jardim Cearense,Rua Holanda, esquina com a Rua Cel. Jaime Rolemberg
+Eco-Ponto,EcoPonto Edson Queiroz - Ecoponto Advogado Marco Antônio Forte,Rua Hill de Moraes com Rua Vereador José Batista Barbosa
+Eco-Ponto,EcoPonto Cidade dos Funcionários - Ecoponto Engenheiro Francisco Helano Meneses Brilhante,Rua Dr. José Plutarco com Rua Professor Aluísio Barros Leal
+Eco-Ponto,EcoPonto Jangurussu,Avenida Castelo de Castro com Rua Gergelim
+Eco-Ponto,EcoPonto Parque Dois Irmãos,Rua H com Rua K

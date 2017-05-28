@@ -1,0 +1,5 @@
+Seu material não serve para reciclagem.
+
+Algum texto referente ao tratamento adequado dos rejeitos possíveis.
+
+Alguma instrução para o usuário inserir o tipo de material que desejava utilizar, para estatística de demanda.

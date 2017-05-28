@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RenovApp</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="name">Nome:</string>
+    <string name="address">Endereço:</string>
+    <string name="list_of_suitable_places">Lista de Locais Adequados:</string>
+    <string name="start">Inicio</string>
+    <string name="label_1">Encontre o destino adequado para o material que você possui respondendo as perguntas abaixo:</string>
+    <string name="recycling_image">recycling_image</string>
+</resources>
